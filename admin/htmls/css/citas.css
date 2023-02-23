@@ -1,0 +1,73 @@
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.fondoBlanco {
+	background-image: url(../imgs/fondo2.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+#contenedor2{
+	margin-top: 80px;
+	margin-left: 85px;
+}
+
+#contenedor2 select {
+	margin-bottom: 60px;
+	background-color: khaki; 
+}
+
+#contenedor2 a {
+	text-decoration: none;
+	color: black;
+}
+
+#contenedor2 div  {
+	padding: 10px;
+	width: 240px;
+	height: 170px;
+	background-color: #4672FF;
+	border-radius: 10%;
+	border: 1px solid;
+	float: left;
+	overflow: hidden;
+}
+
+.tableMeses {
+	text-align: center;
+	padding: 5px;
+	width: 220px;
+	border-collapse: collapse;
+	border-radius: 10%;
+	float: left;
+	margin-left: 8px;
+	color: white;
+}
+
+.tableMeses .tds td {
+	border: 1px solid black;
+	background-color: #C97FFD;
+}
+
+.tableMeses button {
+	width: 30px;
+}
+
+.tableMeses button:hover {
+	background-color: khaki;
+}
+
+.iMes {
+	width: 300px;
+	height: 250px;
+}
+
+.cuatri  {
+	width: 1220px;
+	height: 200px;
+	margin: auto;
+	margin-top: 50px;
+}

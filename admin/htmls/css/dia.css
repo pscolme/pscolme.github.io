@@ -1,0 +1,56 @@
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.fondoBlanco {
+	background-image: url(../imgs/fondo2.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+#iDay {
+	width: 950px;
+	height:1000px;
+	float: right;
+	margin-right: 90px;
+}
+
+.tablaCitas {
+	width: 900px;
+	border: 1px solid;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.tablaCitas td{
+	border: 1px solid black;
+	height: 30px;
+}
+
+.tdHora {
+	width: 10%;
+	background-color: #B8B8B8; 
+	font-weight: bold;
+}
+
+.tdFer {
+	width: 30%;
+	background-color: #438CDF; 
+	font-weight: bold;
+}
+
+.tdfer {
+	background-color: #79BDFC; 
+}
+
+.tdChicas {
+	width: 30%;
+	background-color: #C97FFD; 
+	font-weight: bold;
+}
+
+.tdchicas {
+	background-color: #DE96FF; 
+}
